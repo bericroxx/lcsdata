@@ -10,3 +10,4 @@ cwd
 os.chdir("d://Projects/lcsdata")
 
 os.listdir('.')
+print 'asd'
